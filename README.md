@@ -1,6 +1,6 @@
 # Computational Game Theory group project
 Computational Game Theory: group project @ VUB 2020-2021.
-Re-enactment and extension of experiments in: 
+Re-enactment and extension of experiments in:   
 Bowling,  M. H. and Veloso,  M. M. (2001).   Rational andconvergent  learning  in  stochastic  games.In  Nebel,B., editor,Proceedings of the Seventeenth InternationalJoint Conference on Artificial Intelligence, IJCAI 2001,Seattle,  Washington,  USA,  August  4-10,  2001,  pages1021–1026. Morgan Kaufmann.
 
 ## Group members
