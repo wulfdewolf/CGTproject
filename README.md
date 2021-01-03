@@ -12,8 +12,8 @@ Computational Game Theory : group project @ VUB 2020-2021.
 | :---     | :---                          | :---                                |
 | Alexis Francois Verdoodt | _ | _ |
 | Lennert Bontinck | 568702 | [lennert.bontinck@vub.be](mailto:lennert.bontinck@vub.be) |
-| Sofyan Ajridi | 546395 | [wolf.de.wulf@vub.be](mailto:wolf.de.wulf@vub.be) |
-| Wolf De Wulf | _ | _ |
+| Sofyan Ajridi | _ | _ |
+| Wolf De Wulf | 546395 | [wolf.de.wulf@vub.be](mailto:wolf.de.wulf@vub.be) |
 
 ## Overleaf
 
