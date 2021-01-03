@@ -1,7 +1,7 @@
 # Computational Game Theory group project
 Computational Game Theory: group project @ VUB 2020-2021.  
 
-This GitHub repository and [accompanied article](article.pdf) consists of a re-enactment and extension on the experiments performed Bowling and Veloso in:   
+This GitHub repository and [accompanied article](article.pdf) consist of a re-enactment and extension on the experiments performed by Bowling and Veloso in:   
   
 Bowling,  M. H. and Veloso,  M. M. (2001). Rational and convergent learning in stochastic games. In Nebel,B., editor, Proceedings of the Seventeenth International Joint Conference on Artificial Intelligence, IJCAI 2001,Seattle, Washington, USA, August 4-10, 2001, pages 1021–1026. Morgan Kaufmann.
 
